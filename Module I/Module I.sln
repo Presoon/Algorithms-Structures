@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Max number in collection", "Max number in collection\Max number in collection.csproj", "{A65F7CB7-1653-443E-8E5D-7D5CD2636A15}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Max number in collection", "1. Max number in collection\Max number in collection.csproj", "{A65F7CB7-1653-443E-8E5D-7D5CD2636A15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ONP Notation (Conversion)", "ONP Notation (Conversion)\ONP Notation (Conversion).csproj", "{05A859EB-7706-47FD-8C71-FBAB9D8ED67B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ONP Notation (Conversion)", "2. ONP Notation (Conversion)\ONP Notation (Conversion).csproj", "{05A859EB-7706-47FD-8C71-FBAB9D8ED67B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
