@@ -18,3 +18,6 @@
 - 2.6 [Cyclical List](https://github.com/Presoon/Algorithms-Structures/tree/master/Module%20II/6.%20Cyclical%20List)
 - 2.7 [Flag List](https://github.com/Presoon/Algorithms-Structures/tree/master/Module%20II/7.%20Flag%20List)
 
+![](https://img.shields.io/badge/Module-Third-yellow.svg)
+
+- IN PROGESS
