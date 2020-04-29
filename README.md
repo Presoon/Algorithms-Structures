@@ -18,6 +18,13 @@
 - 2.6 [Cyclical List](https://github.com/Presoon/Algorithms-Structures/tree/master/Module%20II/6.%20Cyclical%20List)
 - 2.7 [Flag List](https://github.com/Presoon/Algorithms-Structures/tree/master/Module%20II/7.%20Flag%20List)
 
-![](https://img.shields.io/badge/Module-Third-yellow.svg)
+![](https://img.shields.io/badge/Module-Third-success.svg)
 
-- IN PROGESS
+- 3.1 [Dijkstra's Algorithm](https://github.com/Presoon/Algorithms-Structures/tree/master/Module%20III/1-2.%20Dijkstra%20n%20Floyd%20Algorithms)
+- 3.2 [Floyd's Algorithm](https://github.com/Presoon/Algorithms-Structures/tree/master/Module%20III/1-2.%20Dijkstra%20n%20Floyd%20Algorithms)
+- 3.3 [BFS Algorithm](https://github.com/Presoon/Algorithms-Structures/tree/master/Module%20III/3-4.%20BFS%20n%20DFS)
+- 3.4 [DFS Algorithm](https://github.com/Presoon/Algorithms-Structures/tree/master/Module%20III/3-4.%20BFS%20n%20DFS)
+
+![](https://img.shields.io/badge/Module-Fourth-yellow.svg) ![](https://img.shields.io/badge/Module-Fifth-yellow.svg) ![](https://img.shields.io/badge/Module-Sixth-yellow.svg) ![](https://img.shields.io/badge/Module-Seventh-yellow.svg)
+
+- IN PROGRESS
