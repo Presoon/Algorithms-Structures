@@ -13,7 +13,7 @@ namespace Zadania
 			Caesar();
 			ShannonFano();
 			Huffman();
-			Console.WriteLine();
+
             Console.ReadLine();
 		}
 
